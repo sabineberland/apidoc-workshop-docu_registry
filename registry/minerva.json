@@ -1,0 +1,15 @@
+{
+  "name": "Minerva",
+  "type": "services",
+  "area": "Tech Comm",
+  "source": [
+    {
+      "version": "v1",
+      "latest": true,
+      "location": "https://github.com/derberg/minerva",
+      "docu_dir": "/service",
+      "branch_or_tag": "master",
+      "baseUri": "http://minerva.cfapps.io"
+    }
+  ]
+}

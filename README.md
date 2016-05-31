@@ -1,2 +1,3 @@
 # apidoc-workshop-docu_registry
-Registry for documenting services
+
+Sample registry for documenting services
