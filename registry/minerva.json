@@ -6,7 +6,7 @@
     {
       "version": "v1",
       "latest": true,
-      "location": "https://github.com/derberg/minerva",
+      "location": "https://github.com/sabineberland/minerva",
       "docu_dir": "/service",
       "branch_or_tag": "master",
       "baseUri": "http://minerva.us-west-2.elasticbeanstalk.com/"
